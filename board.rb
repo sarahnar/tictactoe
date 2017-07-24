@@ -13,7 +13,6 @@ class Cell
 	end	
 end
 =end
-
 class Board
   attr_accessor :cells
 
